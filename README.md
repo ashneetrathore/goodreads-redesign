@@ -2,7 +2,7 @@
 
 ## :open_book: OVERVIEW
 Date: December 2024\
-Designer(s): Ashneet Rathore, Rachel Balta, Ananya Srikanth Kashyap, Angela Wang, Sovit Nayak\
+Designer(s): Ashneet Rathore, Rachel Balta, Ananya Srikanth Kashyap, Angela Wang, Sovit Nayak
 
 Goodreads Profile Redesign is a UI/UX case study focused on improving the user profile page on the Goodreads website. The project followed a three-phase design process: user research, synthesis, and redesign. Early user research focused on identifying a specific feature or page within Goodreads to improve, leading our team to select the profile page as a key area for redesign. This repository serves as a centralized hub for all project artifacts, including research documentation and Figma pages.
 
